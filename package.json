@@ -1,0 +1,23 @@
+{
+  "name": "{{name}}",
+  "version": "0.0.1",
+  "description": "{{description}}",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-tsx-scripts start",
+    "build": "react-tsx-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H-OO/react-tsx-template.git"
+  },
+  "author": "{{author}}",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H-OO/react-tsx-template/issues"
+  },
+  "homepage": "https://github.com/H-OO/react-tsx-template#readme",
+  "dependencies": {
+    "react-tsx-scripts": "^0.0.1"
+  }
+}
