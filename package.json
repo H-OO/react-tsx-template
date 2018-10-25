@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/H-OO/react-tsx-template#readme",
   "dependencies": {
-    "try-react-tsx-scripts": "^0.0.6"
+    "try-react-tsx-scripts": "^0.0.9"
   }
 }
