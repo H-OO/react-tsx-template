@@ -4,20 +4,23 @@
   "description": "{{description}}",
   "main": "index.js",
   "scripts": {
-    "start": "try-react-tsx-scripts start",
-    "build": "try-react-tsx-scripts build"
+    "start": "react-tsx-mode start",
+    "build": "react-tsx-mode build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/H-OO/react-tsx-template.git"
   },
   "author": "{{author}}",
+  "keywords": [
+    "react-tsx-template"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/H-OO/react-tsx-template/issues"
   },
   "homepage": "https://github.com/H-OO/react-tsx-template#readme",
   "dependencies": {
-    "try-react-tsx-scripts": "^0.0.14"
+    "react-tsx-mode": "^0.0.2"
   }
 }
